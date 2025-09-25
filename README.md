@@ -4,8 +4,7 @@ This project is a front-end clone of the Netflix India landing page, built purel
 
 ## Preview
 
- 
-*(Note: You should replace the link above with a screenshot of your project.)*
+<img width="1856" height="798" alt="Screenshot 2025-09-25 194819" src="https://github.com/user-attachments/assets/01d5c9d8-491d-453a-990f-19663af2ae66" />
 
 ## Features
 
